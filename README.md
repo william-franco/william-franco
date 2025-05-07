@@ -174,7 +174,3 @@ Sinta-se Ã  vontade para explorar meus projetos. Estou sempre aberto a colaboraÃ
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-franco&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" 
   />
 </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
